@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather for casting</title>
-    <link rel="stylesheet" href="weather.css">
+    <link rel="stylesheet" href="weather_for_casting/weather.css">
      </head>
 <body>
     <div class="card">
